@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taskLive/static/css/main.1599dc51.css",
+    "main.js": "/taskLive/static/js/main.847f2aae.js",
+    "index.html": "/taskLive/index.html",
+    "main.1599dc51.css.map": "/taskLive/static/css/main.1599dc51.css.map",
+    "main.847f2aae.js.map": "/taskLive/static/js/main.847f2aae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1599dc51.css",
+    "static/js/main.847f2aae.js"
+  ]
+}
